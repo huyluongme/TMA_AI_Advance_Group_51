@@ -59,7 +59,10 @@ def predict_image(image_path):
     confidence = round(top_prob.item() * 100, 2)
     result = {'prediction': prediction, 'confidence': confidence}
     
-    return result
+    if confidence > 99.0:
+        return result
+    else:
+        return 'N/A'
 
 predict_result = predict_image("./image_test_predict/8b_strawberry_leaf_scorch_strang_uk_09hort002js309.jpg")
 

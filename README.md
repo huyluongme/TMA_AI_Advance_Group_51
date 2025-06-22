@@ -1,4 +1,19 @@
 # TMA AI Advance Group 51 - Plant Disease Detection
+- This is a group project by a TMA team, carried out during the AI Advance course. The objective of the project is to leverage Convolutional Neural Networks (CNNs) to train on a dataset consisting of images of healthy and diseased plant leaves, and to deploy the trained model for detecting plant diseases based on leaf imagery.
+- Team members:
+  
+  | No. | Name          |
+  |-----|---------------|
+  | 1   | Giang Nguyen  |
+  | 2   | Vinh Nguyen   |
+  | 3   | Nghiep Mai    |
+  | 4   | Hiep Duong    |
+  | 5   | Thinh Nguyen  |
+  | 6   | Huy Luong     |
+  | 7   | Do Uong       |
+  | 8   | Tien Nguyen   |
+  | 9   | Duc Tu        |
+
 ## 1. Demo
 In Progess...
 ## 2. Training Results

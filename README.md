@@ -14,6 +14,20 @@
   | 8   | Tien Nguyen   |
   | 9   | Duc Tu        |
 
+# Dataset
+This project uses the PlantVillage dataset for training and evaluation.  
+```bibtex
+@article{Mohanty_Hughes_Salathé_2016,
+  title={Using deep learning for image-based plant disease detection},
+  volume={7},
+  DOI={10.3389/fpls.2016.01419},
+  journal={Frontiers in Plant Science},
+  author={Mohanty, Sharada P. and Hughes, David P. and Salathé, Marcel},
+  year={2016},
+  month={Sep}
+}
+```
+
 ## 1. Demo
 In Progess...
 ## 2. Training Results

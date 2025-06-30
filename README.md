@@ -28,7 +28,10 @@ month={Sep}}
 ```
 
 ## 1. Demo
-In Progess...
+
+https://github.com/user-attachments/assets/ef997f7d-4fbd-4e3e-be78-64062b878758
+
+
 ## 2. Training Results
 ### 2.1. ResNet18
 | Train/Validation Accuracy | Train/Validation Loss |

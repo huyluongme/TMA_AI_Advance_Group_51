@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/ef997f7d-4fbd-4e3e-be78-64062b878758
   pip install -r requirements.txt
 
   ```
-## 4. Download Dataset & Data Processing.
+## 4. Download Dataset & Data Processing
   ```bash
   cd data_preprocess
   git clone https://github.com/spMohanty/PlantVillage-Dataset.git
@@ -69,8 +69,14 @@ https://github.com/user-attachments/assets/ef997f7d-4fbd-4e3e-be78-64062b878758
   python augment.py
 
   ```
-## 5. Train Model.
+## 5. Train Model
   ```bash
   python train_test_resnet18.py
+  
+  ```
+## 5. Run App
+Note: Please create `.env` file and push these environments: OPENAI_API_KEY, OPENAI_MODEL
+  ```bash
+  python app.py
   
   ```

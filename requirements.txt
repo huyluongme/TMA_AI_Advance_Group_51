@@ -3,4 +3,6 @@ matplotlib
 scikit-learn
 seaborn
 pandas
-
+gradio
+python-dotenv
+openai
